@@ -14,7 +14,7 @@ Welcome! I'm a first-year master student at UC San Diego, working on personalize
 
 Publications
 ======
-Identifying Adversarial Attacks on Text Classifiers  
+[Identifying Adversarial Attacks on Text Classifiers](https://zhouhanxie.github.io/files/2021identifying.pdf)  
 **Zhouhang Xie<sup>\*</sup>**, Jonathan Brophy<sup>\*</sup>, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Sameer Singh, Daniel Lowd  
 Arxiv Preprint 2021
 
