@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a first-year master student at UC San Diego, working on language generation with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I did my undergraduate study at UC Irvine, where I worked on adversarial attacks in NLP with [prof. Sameer Singh](https://sameersingh.org/).
+Welcome! I'm a first-year master student at UC San Diego, working on personalized language generation with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I did my undergraduate study at UC Irvine, where I worked on adversarial attacks in NLP with [prof. Sameer Singh](https://sameersingh.org/). My research explores applied NLP and robustness/interpretability of machine learning models. 
 
 
 
