@@ -17,11 +17,14 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 Research
 ======
 Towards Factual and Informative Review Generation for Explainable Recommendation
-**Zhouhang Xie**, Sameer Singh, Julian McAuley, Bodhisattwa Prasad Majumder
+
+**Zhouhang Xie**, Sameer Singh, Julian McAuley and Bodhisattwa Prasad Majumder
+
 Arxiv Preprint 2022
 
 [On Faithfulness and Coherence of Language Explanations for Recommendation Systems](https://arxiv.org/pdf/2209.05409.pdf)
 **Zhouhang Xie**, Julian McAuley, Bodhisattwa Prasad Majumder
+
 Arxiv Preprint 2022
 
 [Identifying Adversarial Attacks on Text Classifiers](https://zhouhanxie.github.io/files/2021identifying.pdf)  
