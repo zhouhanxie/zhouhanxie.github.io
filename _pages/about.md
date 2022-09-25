@@ -16,7 +16,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 Research
 ======
-[Towards Factual and Informative Review Generation for Explainable Recommendation]()\\
+[Towards Factual and Informative Review Generation for Explainable Recommendation](https://zhouhanxie.github.io/files/2022factual.pdf)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
 Arxiv Preprint 2022
 
