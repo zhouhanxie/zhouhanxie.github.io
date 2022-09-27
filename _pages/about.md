@@ -16,7 +16,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 Research
 ======
-[Towards Factual and Informative Review Generation for Explainable Recommendation](https://zhouhanxie.github.io/files/2022factual.pdf)\\
+[Factual and Informative Review Generation for Explainable Recommendation](https://arxiv.org/abs/2209.12613)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
 Arxiv Preprint 2022
 
@@ -26,7 +26,7 @@ Arxiv Preprint 2022
 
 [Identifying Adversarial Attacks on Text Classifiers](https://arxiv.org/abs/2201.08555)  
 **Zhouhang Xie<sup>\*</sup>**, Jonathan Brophy<sup>\*</sup>, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Sameer Singh, Daniel Lowd  
-Technical Report 2021, \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>
+REACT Poject 2021 \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>
 
 [What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations](https://aclanthology.org/2021.blackboxnlp-1.6/)  
 **Zhouhang Xie**, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd, and Sameer Singh  
