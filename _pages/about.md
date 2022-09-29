@@ -26,7 +26,7 @@ Arxiv Preprint 2022
 
 [Identifying Adversarial Attacks on Text Classifiers](https://arxiv.org/abs/2201.08555)  
 **Zhouhang Xie<sup>\*</sup>**, Jonathan Brophy<sup>\*</sup>, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Sameer Singh, Daniel Lowd  
-REACT Poject 2021 \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>
+REACT Project 2021 \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>
 
 [What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations](https://aclanthology.org/2021.blackboxnlp-1.6/)  
 **Zhouhang Xie**, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd, and Sameer Singh  
