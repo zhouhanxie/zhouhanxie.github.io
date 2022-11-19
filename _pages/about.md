@@ -18,11 +18,11 @@ Research
 ======
 [Factual and Informative Review Generation for Explainable Recommendation](https://arxiv.org/abs/2209.12613)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
-Arxiv Preprint 2022
+AAAI 2023
 
 [On Faithfulness and Coherence of Language Explanations for Recommendation Systems](https://arxiv.org/pdf/2209.05409.pdf)
 **Zhouhang Xie**, Julian McAuley, and Bodhisattwa Prasad Majumder\\
-Arxiv Preprint 2022
+Arxiv Preprint, Presented at Socal NLP Symposium 2022
 
 [Identifying Adversarial Attacks on Text Classifiers](https://arxiv.org/abs/2201.08555)  
 **Zhouhang Xie<sup>\*</sup>**, Jonathan Brophy<sup>\*</sup>, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Sameer Singh, Daniel Lowd  
