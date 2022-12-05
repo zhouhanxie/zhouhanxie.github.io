@@ -18,7 +18,7 @@ Research
 ======
 [Factual and Informative Review Generation for Explainable Recommendation](https://arxiv.org/abs/2209.12613)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
-AAAI 2023
+AAAI 2023 \<[github](https://github.com/zhouhanxie/PRAG)\>
 
 [On Faithfulness and Coherence of Language Explanations for Recommendation Systems](https://arxiv.org/pdf/2209.05409.pdf)
 **Zhouhang Xie**, Julian McAuley, and Bodhisattwa Prasad Majumder\\
