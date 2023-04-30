@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a second-year master student at UC San Diego, working with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My research focuses on the intersection of personalization and NLP. I'm also broadly interested in language technology for user-facing systems.
+Welcome! I'm a second-year master/incoming PhD student at UC San Diego, working with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My research focuses on the intersection of personalization and NLP. I'm also broadly interested in language technology for user-facing systems.
 
 I did my undergraduate study at UC Irvine, where I worked on robustness and interpretability in NLP with [Prof. Sameer Singh](https://sameersingh.org/). 
 
