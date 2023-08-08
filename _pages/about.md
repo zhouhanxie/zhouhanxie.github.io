@@ -16,6 +16,10 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 Research
 ======
+Large Language Models as Zero-shot Conversational Recommenders\\
+Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
+CIKM 2023 
+
 [Factual and Informative Review Generation for Explainable Recommendation](https://arxiv.org/abs/2209.12613)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
 AAAI 2023 \<[github](https://github.com/zhouhanxie/PRAG)\>
