@@ -16,7 +16,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 Research
 ======
-Large Language Models as Zero-shot Conversational Recommenders\\
+[Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
 Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
 CIKM 2023 
 
