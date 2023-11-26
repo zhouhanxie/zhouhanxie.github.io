@@ -16,8 +16,8 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 Research
 ======
-RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface\\
-Zeyuan Zhang*, Tanmay Laud*, Zihang He*, Xiaojie Chen, Xinshuang Liu, **Zhouhang Xie**, Julian McAuley, Zhankui He \\
+[RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface](https://github.com/McAuley-Lab/RecWizard)\\
+Zeyuan Zhang\*, Tanmay Laud\*, Zihang He\*, Xiaojie Chen, Xinshuang Liu, **Zhouhang Xie**, Julian McAuley, Zhankui He \\
 AAAI 2024 (Demo Track)
 
 [Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
