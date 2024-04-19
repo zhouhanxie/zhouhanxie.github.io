@@ -17,7 +17,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 Research
 ======
 [Few-shot Dialogue Strategy Learning For Motivational Interviewing via Inductive Reasoning](https://arxiv.org/abs/2403.15737)\\
-Zhouhang Xie, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley
+Zhouhang Xie, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\Arxiv Preprint 2024
 
 [RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface](https://github.com/McAuley-Lab/RecWizard)\\
 Zeyuan Zhang\*, Tanmay Laud\*, Zihang He\*, Xiaojie Chen, Xinshuang Liu, **Zhouhang Xie**, Julian McAuley, Zhankui He \\
