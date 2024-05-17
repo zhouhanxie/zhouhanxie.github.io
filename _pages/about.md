@@ -18,15 +18,15 @@ Research
 ======
 [Few-shot Dialogue Strategy Learning For Motivational Interviewing via Inductive Reasoning](https://arxiv.org/abs/2403.15737)\\
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
-ACL Findings 2024
+ACL Findings 2024 \<[github](https://github.com/zhouhanxie/DIIR)\>
 
-[RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface](https://github.com/McAuley-Lab/RecWizard)\\
+[RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface](https://arxiv.org/abs/2402.15591)\\
 Zeyuan Zhang\*, Tanmay Laud\*, Zihang He\*, Xiaojie Chen, Xinshuang Liu, **Zhouhang Xie**, Julian McAuley, Zhankui He \\
-AAAI 2024 (Demo Track)
+AAAI 2024 (Demo Track) \<[github](https://github.com/McAuley-Lab/RecWizard)\>
 
 [Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
 Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
-CIKM 2023 
+CIKM 2023 \<[github](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)\>
 
 [Factual and Informative Review Generation for Explainable Recommendation](https://arxiv.org/abs/2209.12613)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
