@@ -14,7 +14,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 
 
-Research
+Selected Research [[Full](https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ)]
 ======
 [Few-shot Dialogue Strategy Learning For Motivational Interviewing via Inductive Reasoning](https://arxiv.org/abs/2403.15737)\\
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
@@ -26,27 +26,16 @@ AAAI 2024 (Demo Track) \<[github](https://github.com/McAuley-Lab/RecWizard)\>
 
 [Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
 Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
-CIKM 2023 \<[github](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)\>
+CIKM 2023 \<[github](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)\>\<[dataset](https://huggingface.co/datasets/ZhankuiHe/reddit_cikm)\>
 
 [Factual and Informative Review Generation for Explainable Recommendation](https://arxiv.org/abs/2209.12613)\\
 **Zhouhang Xie**, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder\\
 AAAI 2023 \<[github](https://github.com/zhouhanxie/PRAG)\>
 
-[On Faithfulness and Coherence of Language Explanations for Recommendation Systems](https://arxiv.org/pdf/2209.05409.pdf)
-**Zhouhang Xie**, Julian McAuley, and Bodhisattwa Prasad Majumder\\
-Socal NLP Symposium 2022
-
-[Identifying Adversarial Attacks on Text Classifiers](https://arxiv.org/abs/2201.08555)  
-**Zhouhang Xie<sup>\*</sup>**, Jonathan Brophy<sup>\*</sup>, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Sameer Singh, Daniel Lowd  
-REACT Project 2021 \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>
-
 [What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations](https://aclanthology.org/2021.blackboxnlp-1.6/)  
 **Zhouhang Xie**, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd, and Sameer Singh  
-BlackBoxNLP@EMNLP 2021 (oral presentation)
+BlackBoxNLP@EMNLP 2021  \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>\<[react project](https://arxiv.org/abs/2201.08555)\>
 
-[World Food Atlas Project](https://dl.acm.org/doi/10.1145/3463947.3469235)   
-Ali Rostami, **Zhouhang Xie**, Akihisa Ishino, Yoko Yamakata, Kiyoharu Aizawa, Ramesh Jain
-CEA@ICMR 2021
 
 
 
