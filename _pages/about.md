@@ -14,16 +14,12 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 
 
-Selected research ([full](https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ))
+Selected publication ([full](https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ))
 ======
 
 [Few-shot Dialogue Strategy Learning For Motivational Interviewing via Inductive Reasoning](https://arxiv.org/abs/2403.15737)\\
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
 ACL Findings 2024 \<[github](https://github.com/zhouhanxie/DIIR)\>
-
-[RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface](https://arxiv.org/abs/2402.15591)\\
-Zeyuan Zhang\*, Tanmay Laud\*, Zihang He\*, Xiaojie Chen, Xinshuang Liu, **Zhouhang Xie**, Julian McAuley, Zhankui He \\
-AAAI 2024 (Demo Track) \<[github](https://github.com/McAuley-Lab/RecWizard)\>
 
 [Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
 Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
@@ -37,7 +33,12 @@ AAAI 2023 \<[github](https://github.com/zhouhanxie/PRAG)\>
 **Zhouhang Xie**, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd, and Sameer Singh  
 BlackBoxNLP@EMNLP 2021  \<[dataset](https://react-nlp.github.io/tcab/)\>\<[github](https://github.com/REACT-NLP)\>\<[react project](https://arxiv.org/abs/2201.08555)\>
 
+Toolkits
+=====
 
+[RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface](https://arxiv.org/abs/2402.15591)\\
+Zeyuan Zhang\*, Tanmay Laud\*, Zihang He\*, Xiaojie Chen, Xinshuang Liu, **Zhouhang Xie**, Julian McAuley, Zhankui He \\
+AAAI 2024 (Demo Track) \<[github](https://github.com/McAuley-Lab/RecWizard)\>
 
 
 
