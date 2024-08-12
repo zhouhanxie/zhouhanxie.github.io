@@ -23,7 +23,7 @@ ACL Findings 2024 \<[github](https://github.com/zhouhanxie/DIIR)\>
 
 [Neighborhood-based Collaborative Filtering for Conversational Recommendation](https://zhouhanxie.github.io/)\\
 **Zhouhang Xie<sup>\*</sup>**, Junda Wu<sup>\*</sup>, Hyunsik Jeon<sup>\*</sup>, Zhankui He, Harald Steck, Rahul Jha, Dawen Liang, Nathan Kallus, Julian McAuley \\
-ACL Findings 2024 \<[github](https://github.com/zhouhanxie/neighborhood-based-CF-for-CRS)\>
+RecSys 2024 \<[github](https://github.com/zhouhanxie/neighborhood-based-CF-for-CRS)\>
 
 [Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
 Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
