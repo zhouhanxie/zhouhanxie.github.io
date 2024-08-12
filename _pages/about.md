@@ -21,6 +21,10 @@ Selected publication ([full](https://scholar.google.com/citations?hl=en&user=NW_
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
 ACL Findings 2024 \<[github](https://github.com/zhouhanxie/DIIR)\>
 
+[Neighborhood-based Collaborative Filtering for Conversational Recommendation](https://zhouhanxie.github.io/)\\
+**Zhouhang Xie<sup>\*</sup>**, Junda Wu<sup>\*</sup>, Hyunsik Jeon<sup>\*</sup>, Zhankui He, Harald Steck, Rahul Jha, Dawen Liang, Nathan Kallus, Julian McAuley \\
+ACL Findings 2024 \<[github](https://github.com/zhouhanxie/neighborhood-based-CF-for-CRS)\>
+
 [Large Language Models as Zero-shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)\\
 Zhankui He<sup>\*</sup>, **Zhouhang Xie<sup>\*</sup>**, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley\\
 CIKM 2023 \<[github](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)\>\<[dataset](https://huggingface.co/datasets/ZhankuiHe/reddit_cikm)\>
