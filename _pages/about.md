@@ -18,7 +18,7 @@ Selected publication ([full](https://scholar.google.com/citations?hl=en&user=NW_
 ======
 [Mitigating Hallucination in Fictional Character Role-Play](https://arxiv.org/abs/2406.17260)\\
 Nafis Sadeq, **Zhouhang Xie**, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley \\
-EMNLP Findings 2024
+EMNLP Findings 2024 \<[github](https://github.com/NafisSadeq/rolefact)\>
 
 [Few-shot Dialogue Strategy Learning For Motivational Interviewing via Inductive Reasoning](https://arxiv.org/abs/2403.15737)\\
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
