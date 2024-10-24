@@ -29,7 +29,7 @@ EMNLP Findings 2024 \<[github](https://github.com/NafisSadeq/rolefact)\>
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
 ACL Findings 2024 \<[github](https://github.com/zhouhanxie/DIIR)\>
 
-[Neighborhood-based Collaborative Filtering for Conversational Recommendation](https://dl.acm.org/doi/abs/10.1145/3640457.368819)\\
+[Neighborhood-based Collaborative Filtering for Conversational Recommendation](https://dl.acm.org/doi/abs/10.1145/3640457.3688191)\\
 **Zhouhang Xie<sup>\*</sup>**, Junda Wu<sup>\*</sup>, Hyunsik Jeon<sup>\*</sup>, Zhankui He, Harald Steck, Rahul Jha, Dawen Liang, Nathan Kallus, Julian McAuley \\
 RecSys 2024 \<[github](https://github.com/zhouhanxie/neighborhood-based-CF-for-CRS)\>
 
