@@ -16,6 +16,12 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 Selected publication ([full](https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ))
 ======
+[]
+
+[Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation)(https://arxiv.org/abs/2405.12119)\\
+Zhankui He, **Zhouhang Xie**, Harald Steck, Dawen Liang, Rahul Jha, Nathan Kallus, Julian McAuley \\
+WSDM 2025
+
 [Mitigating Hallucination in Fictional Character Role-Play](https://arxiv.org/abs/2406.17260)\\
 Nafis Sadeq, **Zhouhang Xie**, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley \\
 EMNLP Findings 2024 \<[github](https://github.com/NafisSadeq/rolefact)\>
@@ -24,7 +30,7 @@ EMNLP Findings 2024 \<[github](https://github.com/NafisSadeq/rolefact)\>
 **Zhouhang Xie**, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley \\
 ACL Findings 2024 \<[github](https://github.com/zhouhanxie/DIIR)\>
 
-[Neighborhood-based Collaborative Filtering for Conversational Recommendation](https://zhouhanxie.github.io/)\\
+[Neighborhood-based Collaborative Filtering for Conversational Recommendation](https://dl.acm.org/doi/abs/10.1145/3640457.368819)\\
 **Zhouhang Xie<sup>\*</sup>**, Junda Wu<sup>\*</sup>, Hyunsik Jeon<sup>\*</sup>, Zhankui He, Harald Steck, Rahul Jha, Dawen Liang, Nathan Kallus, Julian McAuley \\
 RecSys 2024 \<[github](https://github.com/zhouhanxie/neighborhood-based-CF-for-CRS)\>
 
