@@ -17,6 +17,10 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 Selected publication ([full](https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ))
 ======
 
+[Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision](https://zhouhanxie.github.io/)\\
+**Zhouhang Xie**, Tushar Khot, Bhavana Dalvi Mishra, Harshit Surana, Julian McAuley, Peter Clark, Bodhisattwa Prasad Majumder \\
+NAACL 2025
+
 [Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation](https://arxiv.org/abs/2405.12119)\\
 Zhankui He, **Zhouhang Xie**, Harald Steck, Dawen Liang, Rahul Jha, Nathan Kallus, Julian McAuley \\
 WSDM 2025
