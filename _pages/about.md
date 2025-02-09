@@ -19,7 +19,7 @@ Selected publication ([full](https://scholar.google.com/citations?hl=en&user=NW_
 
 [Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision](https://zhouhanxie.github.io/)\\
 **Zhouhang Xie**, Tushar Khot, Bhavana Dalvi Mishra, Harshit Surana, Julian McAuley, Peter Clark, Bodhisattwa Prasad Majumder \\
-NAACL 2025
+NAACL 2025 \<[github](https://github.com/allenai/instructLF)\>
 
 [Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation](https://arxiv.org/abs/2405.12119)\\
 Zhankui He, **Zhouhang Xie**, Harald Steck, Dawen Liang, Rahul Jha, Nathan Kallus, Julian McAuley \\
