@@ -27,7 +27,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
   <p>
     <a href="https://arxiv.org/abs/2405.12119">Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation</a><br>
     Zhankui He, <strong>Zhouhang Xie</strong>, Harald Steck, Dawen Liang, Rahul Jha, Nathan Kallus, Julian McAuley <br>
-    WSDM 2025
+    WSDM 2025;<a href="https://github.com/AaronHeee/Reindex-Then-Adapt">github</a>&gt;
   </p>
 
   <p>
