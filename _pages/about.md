@@ -15,6 +15,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 
 <h1>Selected publication (<a href="https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ">full</a>)</h1>
+<hr>
 
 <div>
   <p>
@@ -67,6 +68,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 </div>
 
 <h1>Toolkits</h1>
+<hr>
 
 <div>
   <p>
