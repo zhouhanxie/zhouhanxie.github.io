@@ -16,8 +16,6 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 <br>
 <h1>Selected publication (<a href="https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ">full</a>)</h1>
 
----
-
 <div>
   <p>
     <a href="https://zhouhanxie.github.io/">Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision</a><br>
@@ -70,8 +68,6 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 <br>
 <h1>Toolkits</h1>
-
----
 
 <div>
   <p>
