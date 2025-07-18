@@ -18,7 +18,19 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 
 <div>
   <p>
-    <a href="https://zhouhanxie.github.io/">Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision</a><br>
+    <a href="https://arxiv.org/abs/2504.07070">A survey on personalized and pluralistic preference alignment in Large Language Models</a><br>
+    <strong>Zhouhang Xie</strong>, Junda Wu, Yiran Shen, Yu Xia, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley <br>
+    COLM 2025 
+  </p>
+  
+  <p>
+    <a href="https://arxiv.org/abs/2504.15477">In-context ranking preference optimization</a><br>
+    Junda Wu<sup>*</sup>, Rohan Surana<sup>*</sup>, <strong>Zhouhang Xie</strong>, Yiran Shen, Yu Xia, Tong Yu, Ryan Rossi, Prithviraj Ammanabrolu, Julian McAuley <br>
+    COLM 2025 
+  </p>
+  
+  <p>
+    <a href="https://aclanthology.org/2025.naacl-long.554/">Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision</a><br>
     <strong>Zhouhang Xie</strong>, Tushar Khot, Bhavana Dalvi Mishra, Harshit Surana, Julian McAuley, Peter Clark, Bodhisattwa Prasad Majumder <br>
     NAACL 2025 &lt;<a href="https://github.com/allenai/instructLF">github</a>&gt;
   </p>
