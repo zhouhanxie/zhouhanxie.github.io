@@ -19,7 +19,7 @@ I did my undergraduate study at UC Irvine, where I worked on robustness and inte
 <div>
   <p>
     <a href="https://arxiv.org/abs/2504.07070">A survey on personalized and pluralistic preference alignment in Large Language Models</a><br>
-    <strong>Zhouhang Xie</strong>, Junda Wu, Yiran Shen, Yu Xia, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley <br>
+    <strong>Zhouhang Xie</strong>, Junda Wu, Yiran Shen, Yu Xia, Raghav Jain, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley <br>
     COLM 2025 
   </p>
   
