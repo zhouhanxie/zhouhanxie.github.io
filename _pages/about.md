@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a PhD student (2023-) at UC San Diego, working with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on the intersection of NLP and personalization. I'm also broadly interested in language technology for user-facing systems.
+Welcome! I'm a PhD student (2023-) at UC San Diego, working with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on the intersection of NLP and personalization. I'm also broadly interested in language technology for user-facing systems. 
 
-I did my undergraduate study at UC Irvine, where I worked on robustness and interpretability in NLP with [Prof. Sameer Singh](https://sameersingh.org/). 
+I have spent wonderful summers at [Allen Institute for AI](https://allenai.org/) and [Google](https://www.google.com/). I did my undergraduate study at UC Irvine, where I worked on robustness and interpretability in NLP with [Prof. Sameer Singh](https://sameersingh.org/). 
 
 
 <br>
 <h1>Selected publication (<a href="https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ">full</a>)</h1>
 
 <div>
+  <p>
+    <a href="https://arxiv.org/abs/2504.07070">AgenticTagger: Structured Item Representation for Recommendation with LLM Agents</a><br>
+    <strong>Zhouhang Xie</strong>, Bo Peng*, Zhankui He*, Ziqi Chen*, Alice Han, Isabella Ye, Benjamin Coleman, Noveen Sachdeva, Fernando Pereira, Julian McAuley, Wang-Cheng Kang, Derek Zhiyuan Cheng, Beidou Wang, Randolph Brown <br>
+    Preprint 2026 
+  </p>
+  
   <p>
     <a href="https://arxiv.org/abs/2504.07070">A survey on personalized and pluralistic preference alignment in Large Language Models</a><br>
     <strong>Zhouhang Xie</strong>, Junda Wu, Yiran Shen, Yu Xia, Raghav Jain, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley <br>
