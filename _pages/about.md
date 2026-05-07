@@ -17,10 +17,17 @@ I have spent wonderful summers at [Allen Institute for AI](https://allenai.org/)
 <h1>Selected publication (<a href="https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ">full</a>)</h1>
 
 <div>
+  
   <p>
     <a href="https://arxiv.org/abs/2602.05945">AgenticTagger: Structured Item Representation for Recommendation with LLM Agents</a><br>
     <strong>Zhouhang Xie</strong>, Bo Peng*, Zhankui He*, Ziqi Chen*, Alice Han, Isabella Ye, Benjamin Coleman, Noveen Sachdeva, Fernando Pereira, Julian McAuley, Wang-Cheng Kang, Derek Zhiyuan Cheng, Beidou Wang, Randolph Brown <br>
     Preprint 2026 
+  </p>
+
+  <p>
+    <a href="https://github.com/GaganVM/ACL26-PluralEval">Evaluating Language Model Pluralism through In-the-wild Crowd Discussions</a><br>
+   Gagan Mundada, Rohan Surana, Nandhini Swaminathan, Bodhisattwa Prasad Majumder, Junda Wu, Julian McAuley, <strong>Zhouhang Xie</strong> <br>
+    ACL 2026 
   </p>
   
   <p>
