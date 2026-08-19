@@ -27,7 +27,7 @@ I have spent wonderful summers interning at [Allen Institute for AI](https://all
   <p>
     <a href="https://aclanthology.org/2026.acl-long.1957/">Evaluating Language Model Pluralism through In-the-wild Crowd Discussions</a><br>
    Gagan Mundada, Rohan Surana, Nandhini Swaminathan, Bodhisattwa Prasad Majumder, Junda Wu, Julian McAuley, <strong>Zhouhang Xie</strong> <br>
-    ACL 2026 
+    ACL 2026 &lt;<a href="https://github.com/GaganVM/ACL26-PluralEval">github</a>&gt;
   </p>
   
   <p>
