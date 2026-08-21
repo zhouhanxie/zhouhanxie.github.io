@@ -21,7 +21,7 @@ I have spent wonderful summers interning at [Allen Institute for AI](https://all
   <p>
     <a href="https://arxiv.org/abs/2602.05945">AgenticTagger: Structured Item Representation for Recommendation with LLM Agents</a><br>
     <strong>Zhouhang Xie</strong>, Bo Peng*, Zhankui He*, Ziqi Chen*, Alice Han, Isabella Ye, Benjamin Coleman, Noveen Sachdeva, Fernando Pereira, Julian McAuley, Wang-Cheng Kang, Derek Zhiyuan Cheng, Beidou Wang, Randolph Brown <br>
-    Preprint 2026 
+    EMNLP Findings 2026 
   </p>
 
   <p>
