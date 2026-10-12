@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I'm a PhD student (2023-) at UC San Diego working with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My work explores the intersection of NLP and personalization.
 
-I was a Research Scientist at [Google DeepMind](https://deepmind.google/), and before that I spent wonderful time interning at [Allen Institute for AI](https://allenai.org/) and [Google](https://www.google.com/). I did my undergraduate study at UC Irvine, where I worked on robustness and interpretability in NLP with [Prof. Sameer Singh](https://sameersingh.org/).
+Outside of UCSD, I spent some time as a Research Scientist at [Google DeepMind](https://deepmind.google/), and before that I spent wonderful time interning at [Allen Institute for AI](https://allenai.org/) and [Google](https://www.google.com/). I did my undergraduate study at UC Irvine, where I worked on robustness and interpretability in NLP with [Prof. Sameer Singh](https://sameersingh.org/).
 
 
 <br>
